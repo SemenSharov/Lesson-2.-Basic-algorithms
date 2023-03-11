@@ -5,6 +5,20 @@
 // 782 -> 8
 // 918 -> 1
 
+Console.WriteLine("Введите трехзначное число: ");
+int number = Convert.ToInt32(Console.ReadLine());
+int a = Convert.ToInt32(100);
+int b = Convert.ToInt32(1000);
+if ((a <= number) && (number < b))
+{
+    int number1 = number % 100;
+    int number2 = number1 / 10;
+    Console.WriteLine(number2);
+}
+else
+{
+    Console.WriteLine("Вводить только трехзначное число");
+}
 // Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 
 // 645 -> 5
