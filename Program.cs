@@ -42,7 +42,7 @@ if ((c < number) && (d > number))
 if (number > d)
 {
 
-    Console.WriteLine("Слишком большое число");
+    Console.WriteLine("Слишком большое число!!!");
 }
 
 if (number < a)
