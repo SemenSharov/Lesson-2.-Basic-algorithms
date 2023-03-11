@@ -30,7 +30,7 @@ if ((b < number) && (c > number))
 {
     int number1 = number % 1000;
     int number2 = number1 % 100;
-    int number3 = number2 % 10;
+    int number3 = number2 / 10;
     Console.WriteLine(number3);
 }
 
@@ -39,8 +39,9 @@ if ((c < number) && (d > number))
     int number1 = number / 100 % 10;
     Console.WriteLine(number1);
 }
-else
+if (number > d)
 {
+
     Console.WriteLine("Слишком большое число");
 }
 
