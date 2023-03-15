@@ -1,0 +1,15 @@
+C:\Моя папка\Обучение програмированию\Lesson 2. Basic algorithms\bin\Debug\net7.0\Lesson 2. Basic algorithms.exe
+C:\Моя папка\Обучение програмированию\Lesson 2. Basic algorithms\bin\Debug\net7.0\Lesson 2. Basic algorithms.deps.json
+C:\Моя папка\Обучение програмированию\Lesson 2. Basic algorithms\bin\Debug\net7.0\Lesson 2. Basic algorithms.runtimeconfig.json
+C:\Моя папка\Обучение програмированию\Lesson 2. Basic algorithms\bin\Debug\net7.0\Lesson 2. Basic algorithms.dll
+C:\Моя папка\Обучение програмированию\Lesson 2. Basic algorithms\bin\Debug\net7.0\Lesson 2. Basic algorithms.pdb
+C:\Моя папка\Обучение програмированию\Lesson 2. Basic algorithms\obj\Debug\net7.0\Lesson 2. Basic algorithms.csproj.AssemblyReference.cache
+C:\Моя папка\Обучение програмированию\Lesson 2. Basic algorithms\obj\Debug\net7.0\Lesson 2. Basic algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моя папка\Обучение програмированию\Lesson 2. Basic algorithms\obj\Debug\net7.0\Lesson 2. Basic algorithms.AssemblyInfoInputs.cache
+C:\Моя папка\Обучение програмированию\Lesson 2. Basic algorithms\obj\Debug\net7.0\Lesson 2. Basic algorithms.AssemblyInfo.cs
+C:\Моя папка\Обучение програмированию\Lesson 2. Basic algorithms\obj\Debug\net7.0\Lesson 2. Basic algorithms.csproj.CoreCompileInputs.cache
+C:\Моя папка\Обучение програмированию\Lesson 2. Basic algorithms\obj\Debug\net7.0\Lesson 2. Basic algorithms.dll
+C:\Моя папка\Обучение програмированию\Lesson 2. Basic algorithms\obj\Debug\net7.0\refint\Lesson 2. Basic algorithms.dll
+C:\Моя папка\Обучение програмированию\Lesson 2. Basic algorithms\obj\Debug\net7.0\Lesson 2. Basic algorithms.pdb
+C:\Моя папка\Обучение програмированию\Lesson 2. Basic algorithms\obj\Debug\net7.0\Lesson 2. Basic algorithms.genruntimeconfig.cache
+C:\Моя папка\Обучение програмированию\Lesson 2. Basic algorithms\obj\Debug\net7.0\ref\Lesson 2. Basic algorithms.dll

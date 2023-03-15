@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lesson 2. Basic algorithms/1.0.0": {
+        "runtime": {
+          "Lesson 2. Basic algorithms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson 2. Basic algorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
